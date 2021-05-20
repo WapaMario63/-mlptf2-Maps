@@ -44,6 +44,11 @@ Makes use of these two model packs:
 * [Voodoo Cursed Pony Souls](https://www.deviantart.com/mlpstevepvb/art/Voodoo-Cursed-Pony-Souls-815412523)
 * [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
 
+### pl_marecoast_b2
+* Creator: Twifriend
+
+Mareification of pl_summercoast_rc8.
+
 ## Maps in Development
 
 ### pl_sugarcube
