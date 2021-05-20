@@ -1,6 +1,8 @@
 # /mlptf2/ Maps
 Source .VMFs of all maps made for the /mlp/ TF2 server.
 
+Development branch for custom maps (actual maps made from scratch) currently in development.
+
 ## Requirements
 
 These maps make use of custom assets, mostly Stefano's V4 Enhanced pony models, which you can find here:
@@ -11,43 +13,6 @@ These maps make use of custom assets, mostly Stefano's V4 Enhanced pony models, 
 * [Animation Presets (required)](https://www.deviantart.com/stefano96/art/DL-The-Puppet-Master-source-files-723722128)
 
 Other assets include the textures inside koth_appleacres, you can rip them using GCFScape from the BSP itself. If some maps use its own map specific assets and will be listed.
-
-## Playable (Stable) Maps
-
-### koth_appleacres_b8_fix
-* Orginal creator: Batandy from mlptf2mods.com
-* Current creator: WapaMario63
-
-Map based on Sweet Apple Acres with layout almost like Harvest.
-
-### koth_mareduct_b1a
-* Creator: WapaMario63
-
-Mareification of [koth_product_rcx](https://github.com/maxdup/koth_product)
-
-### ctf_marefort_b5a
-* Creator: Twifriend
-
-Mareification of ctf_2fort_revamped.
-
-### koth_marevest_b1
-* Creator: Twifriend
-
-Mareification of koth_harvest.
-
-### koth_marevest_event_b1
-* Creator: Twifriend
-
-Mareification of koth_harvest_event.
-
-Makes use of these two model packs:
-* [Voodoo Cursed Pony Souls](https://www.deviantart.com/mlpstevepvb/art/Voodoo-Cursed-Pony-Souls-815412523)
-* [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
-
-### pl_marecoast_b2
-* Creator: Twifriend
-
-Mareification of pl_summercoast_rc8.
 
 ## Maps in Development
 
