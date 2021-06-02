@@ -10,15 +10,15 @@ These maps make use of custom assets, mostly Stefano's V4 Enhanced pony models, 
 * [Background Pony Pack](https://www.deviantart.com/stefano96/art/DL-Background-Ponies-Enhanced-Version-746786245)
 * [Animation Presets (required)](https://www.deviantart.com/stefano96/art/DL-The-Puppet-Master-source-files-723722128)
 
-Other assets include the textures inside koth_appleacres, you can rip them using GCFScape from the BSP itself. If some maps use its own map specific assets and will be listed.
+Other assets include the textures inside koth_appleacres, you can rip them using GCFScape from the BSP itself. If some maps use its own map specific models, they will be listed.
 
 ## Playable (Stable) Maps
 
-### koth_appleacres_b8_fix
+### koth_appleacres_b9
 * Orginal creator: Batandy from mlptf2mods.com
 * Current creator: WapaMario63
 
-Map based on Sweet Apple Acres with layout almost like Harvest.
+Map based on Sweet Apple Acres with layout almost like Harvest. Layout has been changed a bit to allow for better gameplay.
 
 ### koth_mareduct_b1a
 * Creator: WapaMario63
@@ -53,6 +53,16 @@ Mareification of pl_summercoast_rc8.
 * Creator: Ponka Po
 
 An edit of pl_rainbowride_b7e where the cart is replaced with Rainbow Dash herself, with dynamic animation changes depending on where she is, adds mares, sky Gaben replaced with Celestia and a portal to Equestria opens when BLU team wins.
+
+### pl_marewater_b4
+* Creator: WapaMario63
+
+Mareification of pl_badwater.
+
+### pl_swiftmare_b1
+* Creator: Twifriend
+
+Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 
 ## Maps in Development
 
