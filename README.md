@@ -71,7 +71,7 @@ Marification of cp_degroot_keep
 
 Makes use of:
 * [Nightmare Moon](https://www.deviantart.com/beardeddoomguy/art/DL-Nightmare-Moon-491281528) (materials only)
-* [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only. folder path needs to be renamed to `vj_mlp/newcelestia_echd` as the source files look for mats in a different area)
+* [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only)
 * [Modded assets, OC and a couple koth_appleacres textures](https://github.com/StallionMilker/cp_marekeep/blob/a1_maintenance/custom.zip)
 
 ## Maps in Development
