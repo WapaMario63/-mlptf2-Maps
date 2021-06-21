@@ -64,6 +64,16 @@ Mareification of pl_badwater.
 
 Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 
+### cp_marebowl_b1a
+* Creator: WapaMario63
+
+Mareification of cp_dustbowl. Makes use of brand new textures taken from Legends of Equestria and mixed them a bit with TF2's.
+
+### cp_maresmakemehardassteel_b2
+* Creator: Twifriend
+
+Mareification of cp_steel.
+
 ### cp_mareroot_keep_a1
 * Creator: Living Linguini
 
