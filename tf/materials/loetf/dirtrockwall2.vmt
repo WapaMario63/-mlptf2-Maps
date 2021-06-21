@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	$basetexture "loetf/dirtrockwall2"
+	$surfaceprop "rock"
+	%keywords "loetf2"
+}
