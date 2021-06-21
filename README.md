@@ -64,6 +64,16 @@ Mareification of pl_badwater.
 
 Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 
+### cp_mareroot_keep_a1
+* Creator: Living Linguini
+
+Marification of cp_degroot_keep
+
+Makes use of:
+* [Nightmare Moon](https://www.deviantart.com/beardeddoomguy/art/DL-Nightmare-Moon-491281528) (materials only)
+* [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only)
+* [Modded assets, OC and a couple koth_appleacres textures](https://github.com/StallionMilker/cp_marekeep/blob/a1_maintenance/custom.zip) (Messy asset source files are [here](https://github.com/StallionMilker/pony_npcs) and [here](https://github.com/StallionMilker/cp_marekeep/tree/main/raw))
+
 ## Maps in Development
 
 ### pl_sugarcube
