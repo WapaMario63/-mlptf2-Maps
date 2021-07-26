@@ -1,6 +1,6 @@
 # Playable (Stable) Maps
 
-### koth_appleacres_b9
+### koth_appleacres_b10
 * Orginal creator: Batandy from mlptf2mods.com
 * Current creator: WapaMario63
 
@@ -50,7 +50,7 @@ Mareification of pl_badwater.
 
 Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 
-### cp_marebowl_b1a
+### cp_marebowl_b2c
 * Creator: WapaMario63
 
 Mareification of cp_dustbowl. Makes use of brand new textures taken from Legends of Equestria and mixed them a bit with TF2's.
