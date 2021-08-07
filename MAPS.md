@@ -79,3 +79,10 @@ Mareification of koth_bagel_rc3. Lots of ponuts everywhere.
 * Creator: Twifriend
 
 Mareification of cp_snowpit_rc2 which is a reskin of cp_gravelpit. What is a snowpity you say? `>lurk more`
+
+### pl_mareward_b1
+* Creator: Twifriend
+
+Mareification of pl_upward.
+
+Known issues: Lighting under point C is too dark, but does not affect players.
