@@ -18,7 +18,9 @@ List of all playable maps are available [here](https://github.com/WapaMario63/-m
 
 ## Maps in Development
 
+
 ### pl_sugarcube
 * Creator: WapaMario63
+* Can be compiled: No
 
 Payload map about a cake heist done by Rainbow Dash where BLU must deliver a huge cake from Sugarcube Corner to her cloud home near Fluttershy's Cottage, RED has to stop them.
