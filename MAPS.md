@@ -9,7 +9,7 @@ Map based on Sweet Apple Acres with layout almost like Harvest. Layout has been 
 ### koth_mareduct_b1a
 * Creator: WapaMario63
 
-Mareification of [koth_product_rcx](https://github.com/maxdup/koth_product)
+Mareification of [koth_product_rcx](https://github.com/maxdup/koth_product), which is a pro version of koth_viaduct.
 
 ### ctf_marefort_b5a
 * Creator: Twifriend
@@ -33,14 +33,14 @@ Makes use of these two model packs:
 ### pl_marecoast_b2
 * Creator: Twifriend
 
-Mareification of pl_summercoast_rc8.
+Mareification of pl_summercoast_rc8, which is a pro version of pl_snowycoast.
 
 ### pl_rainbowdashride_a6
 * Creator: Ponka Po
 
 An edit of pl_rainbowride_b7e where the cart is replaced with Rainbow Dash herself, with dynamic animation changes depending on where she is, adds mares, sky Gaben replaced with Celestia and a portal to Equestria opens when BLU team wins.
 
-### pl_marewater_b4
+### pl_marewater_b5a
 * Creator: WapaMario63
 
 Mareification of pl_badwater.
@@ -54,6 +54,11 @@ Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 * Creator: WapaMario63
 
 Mareification of cp_dustbowl. Makes use of brand new textures taken from Legends of Equestria and mixed them a bit with TF2's.
+
+### cp_marebowl_pro_b2a
+* Creator: WapaMario63
+
+Mareification of cp_dustbowl, but without the secret ending and other secrets, just pure dustbowl.
 
 ### cp_maresmakemehardassteel_b2
 * Creator: Twifriend
@@ -75,7 +80,7 @@ Makes use of:
 
 Mareification of koth_bagel_rc3. Lots of ponuts everywhere.
 
-### cp_snowpity_b2
+### cp_snowpity_b3
 * Creator: Twifriend
 
 Mareification of cp_snowpit_rc2 which is a reskin of cp_gravelpit. What is a snowpity you say? `>lurk more`
