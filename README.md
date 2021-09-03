@@ -10,7 +10,7 @@ These maps make use of custom assets, mostly Stefano's V4 Enhanced pony models, 
 * [Background Pony Pack](https://www.deviantart.com/stefano96/art/DL-Background-Ponies-Enhanced-Version-746786245)
 * [Animation Presets (required)](https://www.deviantart.com/stefano96/art/DL-The-Puppet-Master-source-files-723722128)
 
-Some maps use custom textures, notably the Legends of Equestria TF2 mix textures, debuted in cp_marebowl. These can be found in the [tf/materials/loetf](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/materials/loetf) directory of thie repository.
+Some maps use custom textures, notably the Legends of Equestria TF2 mix textures, debuted in cp_marebowl. These can be found in the [tf/materials/loetf](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/materials/loetf) directory of this repository.
 
 Other assets include the textures inside koth_appleacres, you can rip them using GCFScape from the BSP itself. If some maps use its own map specific models, they will be listed.
 
