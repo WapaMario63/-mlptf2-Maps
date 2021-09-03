@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	$basetexture "materials/loetf/dirt"
+	$surfaceprop "dirt"
+}
