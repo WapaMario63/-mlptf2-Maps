@@ -40,7 +40,7 @@ Mareification of pl_summercoast_rc8, which is a pro version of pl_snowycoast.
 
 An edit of pl_rainbowride_b7e where the cart is replaced with Rainbow Dash herself, with dynamic animation changes depending on where she is, adds mares, sky Gaben replaced with Celestia and a portal to Equestria opens when BLU team wins.
 
-### pl_marewater_b5a
+### pl_marewater_b6
 * Creator: WapaMario63
 
 Mareification of pl_badwater.
