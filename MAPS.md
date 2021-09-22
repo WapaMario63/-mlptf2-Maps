@@ -16,7 +16,7 @@ Mareification of [koth_product_rcx](https://github.com/maxdup/koth_product), whi
 
 Mareification of ctf_2fort_revamped.
 
-### koth_marevest_b1
+### koth_marevest_b2a
 * Creator: Twifriend
 
 Mareification of koth_harvest.
