@@ -45,7 +45,7 @@ An edit of pl_rainbowride_b7e where the cart is replaced with Rainbow Dash herse
 
 Mareification of pl_badwater.
 
-### pl_swiftmare_b1
+### pl_swiftmare_b1a
 * Creator: Twifriend
 
 Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
@@ -75,7 +75,7 @@ Makes use of:
 * [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only)
 * [Modded assets, OC and a couple koth_appleacres textures](https://github.com/StallionMilker/cp_marekeep/blob/a1_maintenance/custom.zip) (Messy asset source files are [here](https://github.com/StallionMilker/pony_npcs) and [here](https://github.com/StallionMilker/cp_marekeep/tree/main/raw))
 
-### koth_ponut_b1
+### koth_ponut_b2
 * Creator: Twifriend
 
 Mareification of koth_bagel_rc3. Lots of ponuts everywhere.
@@ -91,3 +91,8 @@ Mareification of cp_snowpit_rc2 which is a reskin of cp_gravelpit. What is a sno
 Mareification of pl_upward.
 
 Known issues: Lighting under point C is too dark, but does not affect players.
+
+### pl_poneo_b1
+* Creator: Twifriend
+
+Mareification of pl_borneo.
