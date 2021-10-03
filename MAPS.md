@@ -23,12 +23,11 @@ Mareification of koth_harvest.
 
 ### koth_marevest_event_b1
 * Creator: Twifriend
+* External Assets:
+  * [Voodoo Cursed Pony Souls](https://www.deviantart.com/mlpstevepvb/art/Voodoo-Cursed-Pony-Souls-815412523)
+  * [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
 
 Mareification of koth_harvest_event.
-
-Makes use of these two model packs:
-* [Voodoo Cursed Pony Souls](https://www.deviantart.com/mlpstevepvb/art/Voodoo-Cursed-Pony-Souls-815412523)
-* [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
 
 ### pl_marecoast_b2
 * Creator: Twifriend
@@ -67,13 +66,12 @@ Mareification of cp_steel.
 
 ### cp_mareroot_keep_a1
 * Creator: Living Linguini
+* External Assets:
+  * [Nightmare Moon](https://www.deviantart.com/beardeddoomguy/art/DL-Nightmare-Moon-491281528) (materials only)
+  * [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only)
+  * [Modded assets, OC and a couple koth_appleacres textures](https://github.com/StallionMilker/cp_marekeep/blob/a1_maintenance/custom.zip) (Messy asset source files are [here](https://github.com/StallionMilker/pony_npcs) and [here](https://github.com/StallionMilker/cp_marekeep/tree/main/raw))
 
 Mareification of cp_degroot_keep
-
-Makes use of:
-* [Nightmare Moon](https://www.deviantart.com/beardeddoomguy/art/DL-Nightmare-Moon-491281528) (materials only)
-* [Enhanced Overhaul Princess Celestia](https://www.deviantart.com/beardeddoomguy/art/DL-Enhanced-Overhaul-Princess-Celestia-746196574) (materials only)
-* [Modded assets, OC and a couple koth_appleacres textures](https://github.com/StallionMilker/cp_marekeep/blob/a1_maintenance/custom.zip) (Messy asset source files are [here](https://github.com/StallionMilker/pony_npcs) and [here](https://github.com/StallionMilker/cp_marekeep/tree/main/raw))
 
 ### koth_ponut_b2
 * Creator: Twifriend
@@ -96,3 +94,11 @@ Known issues: Lighting under point C is too dark, but does not affect players.
 * Creator: Twifriend
 
 Mareification of pl_borneo.
+
+### koth_ponut_event
+* Creator: Twifriend
+* External Assets:
+  * [Voodoo Cursed Pony Souls](https://www.deviantart.com/mlpstevepvb/art/Voodoo-Cursed-Pony-Souls-815412523)
+  * [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
+
+Mareification of koth_bagel_event, AKA Cauldron.
