@@ -105,5 +105,10 @@ Mareification of koth_bagel_event, AKA Cauldron.
 
 ### pd_appleacres_winter_a3
 * Creator: WapaMario63
+* External Assets:
+  * [Mane 6 with festive clothing bodygroups added](https://www.mediafire.com/file/jjomhvnohlm2r3a/)
+  * Original Bodygroup models can be found here:
+   * [Saddle](https://www.deviantart.com/lunarguardwhoof/art/Saddle-for-ponies-SFM-Gmod-483474577)
+   * [Reindeer and Santa costumes](https://www.deviantart.com/whiteskypony/art/The-Christmas-Pack-SFM-GMOD-Props-DL-419343205)
 
 koth_appleacres with the gamemode changed to Player Destruction and with a night winter theme. Collect presents from other players and deliver them to Rainbow Dash and Fluttershy once they arrive with their sleigh inside the barn!
