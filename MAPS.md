@@ -102,3 +102,8 @@ Mareification of pl_borneo.
   * [Pony Skeletons](https://www.deviantart.com/beardeddoomguy/art/DL-Bone-v2-390915499)
 
 Mareification of koth_bagel_event, AKA Cauldron.
+
+### pd_appleacres_winter_a3
+* Creator: WapaMario63
+
+koth_appleacres with the gamemode changed to Player Destruction and with a night winter theme. Collect presents from other players and deliver them to Rainbow Dash and Fluttershy once they arrive with their sleigh inside the barn!
