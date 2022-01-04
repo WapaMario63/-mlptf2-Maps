@@ -112,3 +112,8 @@ Mareification of koth_bagel_event, AKA Cauldron.
     * [Reindeer and Santa costumes](https://www.deviantart.com/whiteskypony/art/The-Christmas-Pack-SFM-GMOD-Props-DL-419343205)
 
 koth_appleacres with the gamemode changed to Player Destruction and with a night winter theme. Collect presents from other players and deliver them to Rainbow Dash and Fluttershy once they arrive with their sleigh inside the barn!
+
+### cp_marelands_b1
+* Creator: Gonderlane
+
+Mareification of cp_badlands.
