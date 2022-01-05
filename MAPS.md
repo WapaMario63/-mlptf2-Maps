@@ -113,7 +113,7 @@ Mareification of koth_bagel_event, AKA Cauldron.
 
 koth_appleacres with the gamemode changed to Player Destruction and with a night winter theme. Collect presents from other players and deliver them to Rainbow Dash and Fluttershy once they arrive with their sleigh inside the barn!
 
-### cp_marelands_b1
+### cp_marelands_b2
 * Creator: Gonderlane
 
 Mareification of cp_badlands.
