@@ -21,6 +21,11 @@ Mareification of ctf_2fort_revamped.
 
 Mareification of koth_harvest.
 
+### cp_mareshine
+* Creator: Twifriend
+
+Mareification of cp_sunshine.
+
 ### koth_marevest_event_b1
 * Creator: Twifriend
 * External Assets:
