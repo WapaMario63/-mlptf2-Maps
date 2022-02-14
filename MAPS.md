@@ -122,3 +122,8 @@ koth_appleacres with the gamemode changed to Player Destruction and with a night
 * Creator: Gonderlane
 
 Mareification of cp_badlands.
+
+### marena_b3
+* Creator: Gonderlane
+
+Mareification of arena_chamber by gcone81. Amuse mares and honor your waifu in one of the two melee only 1 vs 1 chambers! Waifusticks preferred.
