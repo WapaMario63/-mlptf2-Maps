@@ -64,6 +64,14 @@ Mareification of pl_badwater.
 
 Mareification of pl_swiftwater_final, with a few board inside jokes thrown in.
 
+### pl_mareblitzpro_a1
+* Creator: Living Linguini
+
+Marification of problitz_rc1
+
+Makes use of:
+* [custom folder of map repo] (https://github.com/StallionMilker/mareblitzpro/tree/a1) (source files here too)
+
 ### cp_mareroot_keep_a1
 * Creator: Living Linguini
 
