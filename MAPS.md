@@ -127,3 +127,11 @@ Mareification of cp_badlands.
 * Creator: Gonderlane
 
 Mareification of arena_chamber by gcone81. Amuse mares and honor your waifu in one of the two melee only 1 vs 1 chambers! Waifusticks preferred.
+
+### pl_mareblitzpro_a1
+* Creator: Living Linguini
+
+Marification of problitz_rc1
+
+Makes use of:
+* [custom folder of map repo] (https://github.com/StallionMilker/mareblitzpro/tree/a1) (source files here too)
