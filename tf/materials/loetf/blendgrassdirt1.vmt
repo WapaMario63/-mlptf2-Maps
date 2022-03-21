@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	$basetexture "loetf/grass1_light"
+	$basetexture2 "koth_discord/dirt_pony"
+	$surfaceprop "grass"
+	$surfaceprop2 "dirt"
+	%tooltexture "loetf/grass1_light"
+	%keywords "loe"
+}

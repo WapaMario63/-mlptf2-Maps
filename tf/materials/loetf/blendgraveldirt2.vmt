@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	$basetexture "loetf/gravel2"
+	$basetexture2 "loetf/dirt1"
+	$surfaceprop "dirt"
+	$surfaceprop2 "dirt"
+	%tooltexture "loetf/gravel2"
+	%keywords "loe"
+}

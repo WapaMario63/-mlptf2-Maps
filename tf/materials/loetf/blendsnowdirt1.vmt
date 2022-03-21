@@ -1,0 +1,9 @@
+"WorldVertexTransition"
+{
+	$basetexture "nature/snow_full001"
+	$basetexture2 "loetf/dirt1_snow"
+	$surfaceprop "snow"
+	$surfaceprop2 "dirt"
+	%tooltexture "loetf/dirt1_snow"
+	%keywords "loe"
+}
