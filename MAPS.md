@@ -128,7 +128,14 @@ Mareification of cp_badlands.
 
 Mareification of arena_chamber by gcone81. Amuse mares and honor your waifu in one of the two melee only 1 vs 1 chambers! Waifusticks preferred.
 
-<<<<<<< HEAD
+### pl_mareblitzpro_a1
+* Creator: Living Linguini
+
+Marification of problitz_rc1
+
+Makes use of:
+* [custom folder of map repo] (https://github.com/StallionMilker/mareblitzpro/tree/a1) (source files here too)
+
 ### cp_poncess
 * Creator: Anonymous
 
@@ -144,12 +151,3 @@ Variant of cp_poncess with vscript that adds quake mechanics. See [tf/scripts/vs
 * Scripting: Anonymous
 
 Variant of pl_swiftmare_b1a with vscript that adds quake mechanics. See [tf/scripts/vscripts/pl_swiftmare_quakeloaded](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/scripts/vscripts/pl_swiftmare_quakeloaded) for code.
-=======
-### pl_mareblitzpro_a1
-* Creator: Living Linguini
-
-Marification of problitz_rc1
-
-Makes use of:
-* [custom folder of map repo] (https://github.com/StallionMilker/mareblitzpro/tree/a1) (source files here too)
->>>>>>> @{U}
