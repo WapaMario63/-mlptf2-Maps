@@ -20,9 +20,18 @@ List of all playable maps are available [here](https://github.com/WapaMario63/-m
 
 ## Maps in Development
 
+_See the [dev](https://github.com/WapaMario63/-mlptf2-Maps/tree/dev) branch for the project files._
 
 ### pl_sugarcube
 * Creator: WapaMario63
-* Can be compiled: No
+* Current State: Initial Layout
+
+_On Hold_
 
 Payload map about a cake heist done by Rainbow Dash where BLU must deliver a huge cake from Sugarcube Corner to her cloud home near Fluttershy's Cottage, RED has to stop them.
+
+### koth_ponyville_revamped
+* Creator: WapaMario63
+* Current Stage: Layout
+
+This is a remake from the ground up of koth_ponyville_b4 (by Aly and Frozen from [mlptf2mods.com](http://mlptf2mods.com/mods/maps_king_of_the_hill/koth_ponyville) ), a map that is almost a decade old and is impossible to make changes to, mainly to improve performance and fix exploits, due to it being too detailed for it to be recompiled.
