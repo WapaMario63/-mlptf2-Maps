@@ -137,17 +137,23 @@ Makes use of:
 * [custom folder of map repo] (https://github.com/StallionMilker/mareblitzpro/tree/a1) (source files here too)
 
 ### cp_poncess
-* Creator: Anonymous
+* Creator: Apple Jaaj
 
 Mareification of cp_process.
 
 ### cp_poncess_quakeloaded
-* Creator: Anonymous
-* Scripting: Anonymous
-Variant of cp_poncess with vscript that adds quake mechanics. See [tf/scripts/vscripts/cp_poncess_quakeloaded](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/scripts/vscripts/cp_poncess_quakeloaded) for code.
+* Creator: Apple Jaaj
+* Scripting: Apple Jaaj
+
+Variant of cp_poncess with VScript that adds quake mechanics. See [tf/scripts/vscripts/cp_poncess_quakeloaded](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/scripts/vscripts/cp_poncess_quakeloaded) for code.
 
 ### pl_swiftmare_quakeloaded
-* Creator: Anonymous
-* Scripting: Anonymous
+* Creator: Apple Jaaj
+* Scripting: Apple Jaaj
 
-Variant of pl_swiftmare_b1a with vscript that adds quake mechanics. See [tf/scripts/vscripts/pl_swiftmare_quakeloaded](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/scripts/vscripts/pl_swiftmare_quakeloaded) for code.
+Variant of pl_swiftmare_b1a with VScript that adds quake mechanics. See [tf/scripts/vscripts/pl_swiftmare_quakeloaded](https://github.com/WapaMario63/-mlptf2-Maps/tree/main/tf/scripts/vscripts/pl_swiftmare_quakeloaded) for code.
+
+### ctf_marestaremaze
+* Creator: Bowrain Dash
+
+The old school ctf_mandrillmaze map, but now with colgate staring at you everywhere and with some secrets, most of which are _very_ saucy (smexy mares galore).
