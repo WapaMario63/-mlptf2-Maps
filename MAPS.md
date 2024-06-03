@@ -156,4 +156,9 @@ Variant of pl_swiftmare_b1a with VScript that adds quake mechanics. See [tf/scri
 ### ctf_marestaremaze
 * Creator: Bowrain Dash
 
-The old school ctf_mandrillmaze map, but now with colgate staring at you everywhere and with some secrets, most of which are _very_ saucy (smexy mares galore).
+The old school ctf_mandrillmaze map, but now with colgate staring at you everywhere and with some secrets, most of which are _very_ saucy (NSFW smexy mares galore, you have been warned).
+
+### koth_mareswatchingme
+* Creator: Sufficient
+
+Map based on cp_cloak where instead of mercs watching from the skybox its mares, and they are watching (You), as well as other mares. Unlike cp_cloak, this map is bigger and is a viable koth map while containing elements of a trade or fun server map.
