@@ -14,6 +14,8 @@ Some maps use custom textures, notably the Legends of Equestria TF2 mix textures
 
 Other assets include the textures inside koth_appleacres, you can rip them using GCFScape from the BSP itself. If some maps use its own map specific models, they will be listed.
 
+Linux user and want to do mapping? [Here is a guide.](https://github.com/WapaMario63/-mlptf2-Maps/wiki/Set-Up-Mapping-on-Linux)
+
 ## Playable (Stable) Maps
 
 List of all playable maps are available [here](https://github.com/WapaMario63/-mlptf2-Maps/blob/main/MAPS.md).
